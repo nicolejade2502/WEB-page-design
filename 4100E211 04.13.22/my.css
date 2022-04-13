@@ -1,0 +1,10 @@
+body{
+	background-image:url("brown.jpg");
+	background-repeat: no-repeat;
+	background-size: cover; 
+	display: table
+}
+.kt{
+	font-family:Calibri;
+	font-size:font size 50px;
+}
